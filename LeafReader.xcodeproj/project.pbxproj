@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1200658E2BF9D270002F6E3A /* BookReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1200658E2BF9D270002F6E3A /* LeafReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeafReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		120065912BF9D270002F6E3A /* BookReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookReaderApp.swift; sourceTree = "<group>"; };
 		120065932BF9D270002F6E3A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		120065952BF9D271002F6E3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		1200658F2BF9D270002F6E3A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1200658E2BF9D270002F6E3A /* BookReader.app */,
+				1200658E2BF9D270002F6E3A /* LeafReader.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1200658D2BF9D270002F6E3A /* BookReader */ = {
+		1200658D2BF9D270002F6E3A /* LeafReader */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1200659D2BF9D271002F6E3A /* Build configuration list for PBXNativeTarget "BookReader" */;
+			buildConfigurationList = 1200659D2BF9D271002F6E3A /* Build configuration list for PBXNativeTarget "LeafReader" */;
 			buildPhases = (
 				1200658A2BF9D270002F6E3A /* Sources */,
 				1200658B2BF9D270002F6E3A /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = BookReader;
+			name = LeafReader;
 			productName = BookReader;
-			productReference = 1200658E2BF9D270002F6E3A /* BookReader.app */;
+			productReference = 1200658E2BF9D270002F6E3A /* LeafReader.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 120065892BF9D270002F6E3A /* Build configuration list for PBXProject "BookReader" */;
+			buildConfigurationList = 120065892BF9D270002F6E3A /* Build configuration list for PBXProject "LeafReader" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1200658D2BF9D270002F6E3A /* BookReader */,
+				1200658D2BF9D270002F6E3A /* LeafReader */,
 			);
 		};
 /* End PBXProject section */
@@ -340,7 +340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		120065892BF9D270002F6E3A /* Build configuration list for PBXProject "BookReader" */ = {
+		120065892BF9D270002F6E3A /* Build configuration list for PBXProject "LeafReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1200659B2BF9D271002F6E3A /* Debug */,
@@ -349,7 +349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1200659D2BF9D271002F6E3A /* Build configuration list for PBXNativeTarget "BookReader" */ = {
+		1200659D2BF9D271002F6E3A /* Build configuration list for PBXNativeTarget "LeafReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1200659E2BF9D271002F6E3A /* Debug */,
